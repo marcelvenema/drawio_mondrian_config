@@ -1,3 +1,5 @@
+name: Update submodule in draw.io
+  
 on:
   push:
     branches: 
@@ -10,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with: 
-          repository: Mondrian/drawio
+          repository: ${{ secrets.MONDRIAN_DRAWIO_REPOSITORY }}
           ref: dev_mondrian
           submodules: 'recursive'
           token: ${{ secrets.MONDRIAN_DRAWIO_TOKEN }}
