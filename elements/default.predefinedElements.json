@@ -8,5 +8,10 @@
     {
         "Element-Name": "Data Center - 1",
         "Icon-Name": "data-center"
+    },
+    "DC-2":
+    {
+        "Element-Name": "Data Center - 2",
+        "Icon-Name": "data-center"
     }
 }
