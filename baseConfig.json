@@ -80,25 +80,6 @@
             "type":     "STENCIL",
             "uri":      "mondrianicons.user.",
             "fontsettings": {"elementName": "Roboto Medium", "elementID": "Roboto"}
-        },
-
-        "inventory":{
-            "id":       "Mondrian",
-            "lib":      "Icons (Inventory)",
-            "title":    "Mondrian Icons (Inventory)",
-            "tags":     "mondrian inventory",
-            "type":     "STENCIL",
-            "uri":      "mondrianicons.inventory.",
-            "fontsettings": {"elementName": "Roboto Medium", "elementID": "Roboto"}
-        },
-        "archive":{
-            "id":       "Mondrian",
-            "lib":      "Icons (Archive)",
-            "title":    "Mondrian Icons (Archive)",
-            "tags":     "mondrian icon",
-            "type":     "STENCIL",
-            "uri":      "mondrianiconarchive.",
-            "fontsettings": {"elementName": "Roboto Medium", "elementID": "Roboto"}
         }
     },
 
@@ -130,10 +111,6 @@
         "S6":
         {
             "uri": "mondrian/stencils/mondrianIcons.inventory.xml"
-        },
-        "S10":
-        {
-            "uri": "mondrian/stencils/mondrianIconArchive.xml"
         },
         "S11":
         {
